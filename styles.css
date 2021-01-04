@@ -1,0 +1,28 @@
+img{
+    width:400px;
+}
+h1{
+    color:MediumOrchid;
+    text-align:center;
+    font-family: 'Fredericka the Great', cursive;
+}  
+ h2{
+     color:Turquoise;
+     font-family: 'Fredericka the Great', cursive;
+}
+h3{
+    color:RosyBrown;
+    font-family: 'Fredericka the Great', cursive;
+}
+p{
+    color:SlateBlue;
+    text-align:center;
+    font-size:20px;
+font-family: 'Mark Script', cursive;}
+li{
+    color:Salmon;
+    font-family: 'Merienda', cursive;
+}
+body{
+    background-color:LavenderBlush;
+}
